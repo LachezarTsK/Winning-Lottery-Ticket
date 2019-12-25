@@ -1,5 +1,3 @@
-package winningLotteryTicket;
-
 import java.util.Scanner;
 
 public class Solution {
